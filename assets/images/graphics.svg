@@ -1,0 +1,33 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#4mq6tafmaa)">
+        <path d="M13.804-13.847c.25.095.497.193.74.297L26.64-2.515c.132.239.256.481.379.726L13.804-13.847z" stroke="#fff" stroke-opacity=".8" stroke-miterlimit="10" stroke-linecap="round"/>
+        <g clip-path="url(#xziitp59ub)">
+            <rect width="72" height="72" rx="6" fill="#AC99FF"/>
+            <path d="M13.804-13.847c.25.095.497.193.74.297L26.64-2.515c.132.239.256.481.379.726L13.804-13.847z" stroke="#fff" stroke-opacity=".8" stroke-miterlimit="10" stroke-linecap="round"/>
+            <rect x="20" y="17" width="32" height="41" rx="3" fill="url(#kd9samzc7c)"/>
+            <rect x="22" y="19" width="28" height="37" rx="2" fill="url(#57rvbtfi0d)"/>
+            <path d="M29 37h12" stroke="#EEBF17" stroke-width="2" stroke-linecap="round"/>
+            <path d="M44.881 24.813a2 2 0 0 1 3.626 1.69l-4.35 9.33a1 1 0 0 1-.345.404l-2.308 1.567a.5.5 0 0 1-.778-.363l-.283-2.775a1 1 0 0 1 .088-.524l4.35-9.33z" fill="#1ABCE0"/>
+            <path d="M29 32h8" stroke="#EEBF17" stroke-width="2" stroke-linecap="round"/>
+            <path d="M38.836 15.018c.18.522.612.982 1.164.982h1a2 2 0 0 1 2 2v2a1 1 0 0 1-1 1H30a1 1 0 0 1-1-1v-2a2 2 0 0 1 2-2h1c.552 0 .984-.46 1.164-.982a3.001 3.001 0 0 1 5.672 0z" fill="#F1C938"/>
+            <circle cx="48.9" cy="48.9" r="9.9" fill="#1F84EF"/>
+            <path d="M51.282 50.054h-3.1a.2.2 0 0 1-.2-.2v-5.3" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="kd9samzc7c" x1="36" y1=".5" x2="36" y2="60" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FDE89B"/>
+            <stop offset="1" stop-color="#EEBF17"/>
+        </linearGradient>
+        <linearGradient id="57rvbtfi0d" x1="36" y1="19" x2="36" y2="56" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#FFFDF4"/>
+        </linearGradient>
+        <clipPath id="4mq6tafmaa">
+            <path fill="#fff" d="M0 0h72v72H0z"/>
+        </clipPath>
+        <clipPath id="xziitp59ub">
+            <path fill="#fff" d="M0 0h72v72H0z"/>
+        </clipPath>
+    </defs>
+</svg>

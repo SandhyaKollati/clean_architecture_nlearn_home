@@ -1,0 +1,26 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="80" height="80" rx="12" fill="#FFF2E5"/>
+    <path d="M16.87 12A4.87 4.87 0 0 0 12 16.87v17.043a4.87 4.87 0 0 0 4.87 4.87h17.043a4.87 4.87 0 0 0 4.87-4.87V16.87a4.87 4.87 0 0 0-4.87-4.87H16.87z" fill="url(#pab09sesca)"/>
+    <path d="M16.87 41.216a4.87 4.87 0 0 0-4.87 4.87v17.043A4.87 4.87 0 0 0 16.87 68h17.043a4.87 4.87 0 0 0 4.87-4.87V46.086a4.87 4.87 0 0 0-4.87-4.87H16.87z" fill="url(#vuhcpcttvb)"/>
+    <path d="M41.217 46.086a4.87 4.87 0 0 1 4.87-4.87H63.13a4.87 4.87 0 0 1 4.87 4.87v17.043A4.87 4.87 0 0 1 63.13 68H46.087a4.87 4.87 0 0 1-4.87-4.87V46.086z" fill="url(#1jf831mlbc)"/>
+    <path d="M46.087 12a4.87 4.87 0 0 0-4.87 4.87v17.043a4.87 4.87 0 0 0 4.87 4.87H63.13a4.87 4.87 0 0 0 4.87-4.87V16.87A4.87 4.87 0 0 0 63.13 12H46.087z" fill="url(#4lfeytve1d)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.392 19.305c.672 0 1.217.545 1.217 1.217v3.652h3.652a1.217 1.217 0 1 1 0 2.435H26.61v3.652a1.217 1.217 0 1 1-2.435 0V26.61h-3.652a1.217 1.217 0 1 1 0-2.435h3.652v-3.652c0-.672.545-1.217 1.218-1.217zm23.13 6.087c0-.673.545-1.218 1.218-1.218h9.739a1.217 1.217 0 1 1 0 2.435h-9.74a1.217 1.217 0 0 1-1.217-1.217zM20.88 50.096a1.217 1.217 0 0 1 1.721 0l2.583 2.583 2.582-2.583a1.217 1.217 0 1 1 1.722 1.722L26.904 54.4l2.583 2.583a1.217 1.217 0 0 1-1.722 1.721l-2.582-2.582-2.583 2.582a1.217 1.217 0 0 1-1.721-1.721L23.46 54.4l-2.582-2.582a1.217 1.217 0 0 1 0-1.722zm27.643 2.078c0-.672.545-1.217 1.218-1.217h9.739a1.217 1.217 0 1 1 0 2.435h-9.74a1.217 1.217 0 0 1-1.217-1.218zm0 4.87c0-.672.545-1.218 1.218-1.218h9.739a1.217 1.217 0 0 1 0 2.435h-9.74a1.217 1.217 0 0 1-1.217-1.217z" fill="#fff"/>
+    <defs>
+        <linearGradient id="pab09sesca" x1="52.174" y1="13.217" x2="52.174" y2="60.695" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FBB26F"/>
+            <stop offset="1" stop-color="#EC8322"/>
+        </linearGradient>
+        <linearGradient id="vuhcpcttvb" x1="52.174" y1="13.217" x2="52.174" y2="60.695" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FBB26F"/>
+            <stop offset="1" stop-color="#EC8322"/>
+        </linearGradient>
+        <linearGradient id="1jf831mlbc" x1="52.174" y1="13.217" x2="52.174" y2="60.695" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FBB26F"/>
+            <stop offset="1" stop-color="#EC8322"/>
+        </linearGradient>
+        <linearGradient id="4lfeytve1d" x1="52.174" y1="13.217" x2="52.174" y2="60.695" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FBB26F"/>
+            <stop offset="1" stop-color="#EC8322"/>
+        </linearGradient>
+    </defs>
+</svg>

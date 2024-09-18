@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3 16C3 8.82 8.82 3 16 3s13 5.82 13 13-5.82 13-13 13S3 23.18 3 16zm21.399 0A8.399 8.399 0 1 0 7.6 16 8.399 8.399 0 0 0 24.4 16z" fill="url(#celm4blfwa)"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M16 19a3 3 0 1 0-2.83-4H10a1 1 0 1 0 0 2h3.17A3.001 3.001 0 0 0 16 19z" fill="#23E71D"/>
+    <defs>
+        <linearGradient id="celm4blfwa" x1="7.5" y1="6.5" x2="23" y2="26.5" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#7BFF77"/>
+            <stop offset="1" stop-color="#08E000"/>
+        </linearGradient>
+    </defs>
+</svg>

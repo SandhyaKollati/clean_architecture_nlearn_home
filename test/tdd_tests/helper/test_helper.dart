@@ -11,7 +11,6 @@ import 'package:nlearn_v3_home/features/home/domain/usecases/home_revise_now_use
 import 'package:nlearn_v3_home/features/home/domain/usecases/home_scheduled_test_usecase.dart';
 import 'package:nlearn_v3_home/features/home/domain/usecases/home_user_features_usecase.dart';
 import 'package:nlearn_v3_home/features/home/domain/usecases/home_user_profile_usecase.dart';
-import 'package:nlearn_v3_home/features/home/presentation/bloc/home_bloc.dart';
 
 @GenerateMocks(
     [HomeRepository, BaseApiService, HomeRemoteDatasource, HomeCourseInfoUseCase, HomeLearnVideoListUseCase, HomeLearnSubjectUseCase, HomePracticeListUseCase, HomeReviseNowUseCase, HomeScheduledTestUseCase, HomeUserFeaturesUseCase, HomeUserProfileUseCase, HomeDishaConfigUseCase]
